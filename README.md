@@ -1,11 +1,12 @@
 # StratiRandom
 
 <!-- badges: start -->
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 <!-- badges: end -->
 
-The goal of `StratiRandom` is to stratify and randomize sample sequences based on the Bioconductor R package [`OSAT`](https://bioconductor.org/packages/release/bioc/html/OSAT.html) published by _Yan, L., Ma, C., Wang, D. et al. OSAT: a tool for sample-to-batch allocations in genomics experiments. BMC Genomics 13, 689 (2012)_ [https://doi.org/10.1186/1471-2164-13-689](https://doi.org/10.1186/1471-2164-13-689)
+The goal of the `StratiRandom` R/Shiny app is to stratify and randomize sample sequences based on the Bioconductor R package [`OSAT`](https://bioconductor.org/packages/release/bioc/html/OSAT.html) published by _Yan, L., Ma, C., Wang, D. et al. OSAT: a tool for sample-to-batch allocations in genomics experiments. BMC Genomics 13, 689 (2012)_ [https://doi.org/10.1186/1471-2164-13-689](https://doi.org/10.1186/1471-2164-13-689)
 
-An R/Shiny app for this script is availablee at https://slinghub.shinyapps.io/StratiRandom_Shiny/
+A online R/Shiny version of this app is also available at https://slinghub.shinyapps.io/StratiRandom_Shiny/
 
 ## Prerequisites
 
