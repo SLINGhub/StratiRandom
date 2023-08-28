@@ -26,7 +26,7 @@ Submit a [Github Issue](https://github.com/SLINGhub/StatiRandom/issues) or [Pull
 
 ## Contact
 
-* *Ji Shan Shan (lsijish @ nus.edu.sg)
+* Ji Shan Shan (lsijish @ nus.edu.sg)
 
 ## Code of Conduct
 
