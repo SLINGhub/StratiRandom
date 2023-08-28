@@ -7,7 +7,6 @@ The goal of `StratiRandom` is to stratify and randomize sample sequences based o
 
 An R/Shiny app for this script is availablee at https://slinghub.shinyapps.io/StratiRandom_Shiny/
 
-
 ## Prerequisites
 
 Following packages must be installed in R to run the scripts
@@ -30,4 +29,4 @@ Submit a [Github Issue](https://github.com/SLINGhub/StatiRandom/issues) or [Pull
 
 ## Code of Conduct
 
-Please note that the LICAR project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
+Please note that the StratiRandom project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
